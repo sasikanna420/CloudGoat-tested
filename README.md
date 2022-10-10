@@ -40,10 +40,10 @@ $ ./cloudgoat.py config whitelist --auto
 
 ### Creating the Resource ###### 
 
-$ ./cloudgoat.py create cloud_breach_s3
-$ ./cloudgoat.py create iam_privesc_by_attachment
+$ ./cloudgoat.py create cloud_breach_s3   
+$ ./cloudgoat.py create iam_privesc_by_attachment  
 
 ### Destroying the Resource ##### 
 
-$ ./cloudgoat.py destroy cloud_breach_s3
+$ ./cloudgoat.py destroy cloud_breach_s3  
 $ ./cloudgoat.py destroy iam_privesc_by_attachment
