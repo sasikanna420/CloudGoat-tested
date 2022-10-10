@@ -33,8 +33,8 @@ chmod +x cloudgoat.py
 
 You may also want to run some quick configuration commands - it'll save you some time later:
 
-$ ./cloudgoat.py config profile 
-$ ./cloudgoat.py config whitelist --auto
+$ ./cloudgoat.py config profile       
+$ ./cloudgoat.py config whitelist --auto   
 
 # DO NOT CREATE ANY RESOURCE MANUALLY 
 
