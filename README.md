@@ -32,7 +32,6 @@ pip3 install -r ./requirements.txt \
 chmod +x cloudgoat.py 
 
 You may also want to run some quick configuration commands - it'll save you some time later:
-
 $ ./cloudgoat.py config profile 
 $ ./cloudgoat.py config whitelist --auto
 
@@ -41,9 +40,11 @@ $ ./cloudgoat.py config whitelist --auto
 ### Creating the Resource ###### 
 
 $ ./cloudgoat.py create cloud_breach_s3
+
 $ ./cloudgoat.py create iam_privesc_by_attachment
 
 ### Destroying the Resource ##### 
 
 $ ./cloudgoat.py destroy cloud_breach_s3
+
 $ ./cloudgoat.py destroy iam_privesc_by_attachment
