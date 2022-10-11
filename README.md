@@ -27,7 +27,7 @@ Hereby we have tested the codes from cloudgoat and merged with some changes.
 # One Time Setup 
 ```
 git clone https://github.com/sasikanna420/CloudGoat-tested.git 
-cd cloudgoat 
+cd CloudGoat-tested
 pip3 install -r ./requirements.txt 
 chmod +x cloudgoat.py 
 ```
