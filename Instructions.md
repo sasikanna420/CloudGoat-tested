@@ -11,7 +11,7 @@ Follow below steps to access,
 
 ![image](https://user-images.githubusercontent.com/70305957/196030957-73cdb097-c1af-4a86-b031-ee9f5bf754a5.png)
 
-•	Use private key in the mail attachment to connect the instance via putty    
+•	Use private key in the mail attachment to connect the instance via putty. Login as ec2-user always and then switch to root using `sudo su -`     
 
 ![image](https://user-images.githubusercontent.com/70305957/196031730-3f3db663-bd2d-4a80-a3d2-f00d98a2d969.png)
 
