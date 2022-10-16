@@ -5,7 +5,7 @@ Follow below steps to access,
 
 •	Always switch to ap-south-1 region for the closer one. 
 
-![image](https://user-images.githubusercontent.com/70305957/196030914-38f2a84f-7dc2-47fd-9ace-6472465c04e2.png)
+![image](https://user-images.githubusercontent.com/70305957/196031417-bf88d7b2-7d35-4723-bc5d-ee3c529cafe5.png)
 
 •	Start & Stop the base server before and after testing phase.    
 
