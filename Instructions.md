@@ -11,10 +11,6 @@ Follow below steps to access,
 
 ![image](https://user-images.githubusercontent.com/70305957/196030957-73cdb097-c1af-4a86-b031-ee9f5bf754a5.png)
 
-•	Start & Stop the base server before and after testing phase.    
-
-private key[Terraform.ppk] is added in git, Please download and use to connect the servers via putty after starting the instances. 
-
 •	Already server is installed with required packages. 
 
 ![image](https://user-images.githubusercontent.com/70305957/196031022-4ddc9c30-beb0-44fb-bab7-c3916c780ca7.png)
